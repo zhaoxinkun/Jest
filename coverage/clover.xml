@@ -1,64 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1732864033721" clover="3.2.0">
-  <project timestamp="1732864033721" name="All files">
-    <metrics statements="31" coveredstatements="30" conditionals="0" coveredconditionals="0" methods="20" coveredmethods="19" elements="51" coveredelements="49" complexity="0" loc="31" ncloc="31" packages="3" files="6" classes="6"/>
-    <package name="01使用">
-      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
-      <file name="main.js" path="F:\Jest\01使用\main.js">
-        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
-        <line num="1" count="1" type="stmt"/>
-        <line num="2" count="1" type="stmt"/>
-        <line num="5" count="1" type="stmt"/>
-        <line num="6" count="1" type="stmt"/>
-        <line num="8" count="1" type="stmt"/>
-        <line num="9" count="1" type="stmt"/>
-        <line num="11" count="1" type="stmt"/>
-        <line num="12" count="1" type="stmt"/>
-      </file>
-    </package>
-    <package name="02异步">
-      <metrics statements="9" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="5"/>
-      <file name="Jestzidl.js" path="F:\Jest\02异步\Jestzidl.js">
-        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="5" count="1" type="stmt"/>
-        <line num="6" count="1" type="stmt"/>
-      </file>
-      <file name="asyncFn.js" path="F:\Jest\02异步\asyncFn.js">
-        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
-        <line num="4" count="1" type="stmt"/>
-        <line num="5" count="1" type="stmt"/>
-        <line num="6" count="1" type="stmt"/>
-      </file>
-      <file name="main.js" path="F:\Jest\02异步\main.js">
-        <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
-        <line num="4" count="1" type="stmt"/>
-        <line num="5" count="1" type="stmt"/>
-        <line num="6" count="1" type="stmt"/>
-        <line num="8" count="0" type="stmt"/>
-      </file>
-    </package>
-    <package name="04钩子函数">
-      <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="10"/>
-      <file name="main.js" path="F:\Jest\04钩子函数\main.js">
-        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
-        <line num="5" count="4" type="stmt"/>
-        <line num="10" count="1" type="stmt"/>
-        <line num="14" count="1" type="stmt"/>
-        <line num="19" count="1" type="stmt"/>
-        <line num="23" count="1" type="stmt"/>
-      </file>
-      <file name="main02.js" path="F:\Jest\04钩子函数\main02.js">
-        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
-        <line num="1" count="1" type="stmt"/>
-        <line num="4" count="4" type="stmt"/>
-        <line num="8" count="4" type="stmt"/>
-        <line num="12" count="1" type="stmt"/>
-        <line num="13" count="1" type="stmt"/>
-        <line num="17" count="1" type="stmt"/>
-        <line num="18" count="1" type="stmt"/>
-        <line num="19" count="1" type="stmt"/>
-        <line num="23" count="3" type="stmt"/>
-      </file>
-    </package>
+<coverage generated="1733195243782" clover="3.2.0">
+  <project timestamp="1733195243782" name="All files">
+    <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="0" coveredelements="0" complexity="0" loc="0" ncloc="0" packages="0" files="0" classes="0"/>
   </project>
 </coverage>
