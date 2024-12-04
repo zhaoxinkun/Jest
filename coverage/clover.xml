@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1733297235939" clover="3.2.0">
-  <project timestamp="1733297235939" name="All files">
-    <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2" elements="6" coveredelements="6" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
-    <file name="snapshot.js" path="F:\Jest\06进阶\snapshot.js">
-      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
-      <line num="2" count="1" type="stmt"/>
-      <line num="3" count="1" type="stmt"/>
+<coverage generated="1733304368140" clover="3.2.0">
+  <project timestamp="1733304368140" name="All files">
+    <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3" elements="11" coveredelements="9" complexity="0" loc="7" ncloc="7" packages="1" files="1" classes="1"/>
+    <file name="timer.js" path="F:\Jest\08MockTimer\timer.js">
+      <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
       <line num="11" count="1" type="stmt"/>
-      <line num="12" count="1" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
