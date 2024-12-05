@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1733365400541" clover="3.2.0">
-  <project timestamp="1733365400541" name="All files">
-    <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2" elements="5" coveredelements="5" complexity="0" loc="3" ncloc="3" packages="1" files="1" classes="1"/>
-    <file name="done.js" path="F:\Jest\02异步\done.js">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
-      <line num="3" count="1" type="stmt"/>
-      <line num="5" count="1" type="stmt"/>
+<coverage generated="1733380671565" clover="3.2.0">
+  <project timestamp="1733380671565" name="All files">
+    <metrics statements="7" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1" elements="11" coveredelements="5" complexity="0" loc="7" ncloc="7" packages="1" files="2" classes="2"/>
+    <file name="MockClass.js" path="F:\Jest\10class\MockClass.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
       <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+    <file name="main.js" path="F:\Jest\10class\main.js">
+      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
     </file>
   </project>
 </coverage>
